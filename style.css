@@ -545,3 +545,48 @@ footer {
         gap: 1rem;
     }
 }
+
+/* MOBILE RESPONSIVENESS  */
+
+@media (max-width: 768px) {
+    /* General Layout */
+    .main-container {
+      gap: 60px;
+      padding-top: 80px;
+    }
+  
+    /* Hero Section */
+    .hero {
+      flex-direction: column;
+      gap: 30px;
+    }
+    
+    .hero-content h2 {
+      font-size: 28px;
+    }
+  
+    /* Projects Grid */
+    .project-cards {
+      grid-template-columns: 1fr !important;
+    }
+  
+    /* Skills Section */
+    .skill-group {
+      grid-template-columns: 1fr !important;
+    }
+  
+    /* About Section */
+    .about-content {
+      flex-direction: column;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .hero-content h2 {
+      font-size: 24px;
+    }
+    
+    .project-links {
+      flex-direction: column;
+    }
+  }
