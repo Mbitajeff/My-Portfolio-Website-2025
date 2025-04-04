@@ -91,4 +91,3 @@ This project is licensed under the [MIT License](LICENSE).
   <p>🔗 Connect with me: <a href="mailto:Jeffmbita69@gmail.com">Email</a> | <a href="https://linkedin.com/in/jeffmbita">LinkedIn</a> | <a href="https://github.com/Mbitajeff">GitHub</a></p>
   <p>© 2025 Jeff Mbita | PLP Academy Hackathon Submission</p>
 </div>
-```
